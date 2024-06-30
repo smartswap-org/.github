@@ -15,7 +15,7 @@ Smartswap is an innovative Intranet-based project designed for managing cryptocu
 ### Key Projects Integrated
 
 - [**QTSBE (Quantitative Trading Strategy Backtesting Environment)**](https://github.com/simonpotel/QTSBE) : Environment for creating and testing financial strategies, including data visualization solutions and real-time API for analysis.
-- [**DEXcryptoLib**](https://github.com/simonpotel/CEXcryptoLib), [**DEXcryptoLib**](https://github.com/simonpotel/DEXcryptoLib) : Libraries for placing orders and broadcasting transactions.
+- [**CEXcryptoLib**](https://github.com/simonpotel/CEXcryptoLib), [**DEXcryptoLib**](https://github.com/simonpotel/DEXcryptoLib) : Libraries for placing orders and broadcasting transactions.
 
 ### Internal Modules
 
