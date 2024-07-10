@@ -1,7 +1,3 @@
-# Smartswap
-
-<img src="https://github.com/smartswap-org/web/blob/76a0361213795cd140265e237b0b1d039ca19d30/files/logo.jpeg" width="250" height="250">
-
 ## Overview
 
 Smartswap is an Intranet-based project designed for managing cryptocurrency portfolios by interacting with centralized platforms such as Binance. The platform enables both manual and automated trading through a quantitative market analysis-based trading algorithm.
