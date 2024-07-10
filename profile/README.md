@@ -22,7 +22,7 @@ Smartswap is an Intranet-based project designed for managing cryptocurrency port
 - [**web**](https://github.com/smartswap-org/web) : Web interface for portfolio control, order management, position tracking, and cryptocurrency pair price monitoring (DEX / CEX).
 - [**simulator**](https://github.com/smartswap-org/simulator) : Real-time strategy simulation tool on specified capital.
 - **executor** : Executes manual orders and retrieves strategy data for automated trading algorithm application.
-- **discord-int** : Monitors script operations, APIs, and databases, with backup mechanisms.
+- [**discord-int**](https://github.com/smartswap-org/discord-int) : Monitors script operations, APIs, and databases, with backup mechanisms.
 
 ## Stack
 
@@ -51,8 +51,3 @@ Smartswap is an Intranet-based project designed for managing cryptocurrency port
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
-## How to use
-
----
