@@ -4,11 +4,11 @@
 
 ## Overview
 
-Smartswap is an innovative Intranet-based project designed for managing cryptocurrency portfolios by interacting with decentralized exchanges like Uniswap and Quickswap, as well as centralized platforms such as Binance. The platform enables both manual and automated trading through a quantitative market analysis-based trading algorithm.
+Smartswap is an Intranet-based project designed for managing cryptocurrency portfolios by interacting with centralized platforms such as Binance. The platform enables both manual and automated trading through a quantitative market analysis-based trading algorithm.
 
 ### Features
 
-- ⏲️ Cost-effective planning and position taking across multiple exchanges
+- ⏲️ Cost-effective planning and position
 - 🔒 Data security and reduced hosting costs leveraging its Intranet infrastructure
 - 📈 Integration of strategies for automated trading
 
@@ -22,7 +22,7 @@ Smartswap is an innovative Intranet-based project designed for managing cryptocu
 - [**web**](https://github.com/smartswap-org/web) : Web interface for portfolio control, order management, position tracking, and cryptocurrency pair price monitoring (DEX / CEX).
 - [**simulator**](https://github.com/smartswap-org/simulator) : Real-time strategy simulation tool on specified capital.
 - **executor** : Executes manual orders and retrieves strategy data for automated trading algorithm application.
-- **monitor** : Monitors script operations, APIs, and databases, with backup mechanisms.
+- **discord-int** : Monitors script operations, APIs, and databases, with backup mechanisms.
 
 ## Stack
 
