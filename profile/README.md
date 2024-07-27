@@ -7,10 +7,13 @@ Smartswap is an Intranet-based project designed for managing cryptocurrency port
 
 ### Features
 
-- ⏲️ Cost-effective planning and position
-- 🔒 Data security and reduced hosting costs leveraging its Intranet infrastructure
-- 📈 Integration of strategies for automated trading
-
+- 🔒 **Intranet Infrastructure**: Ensure the security and control of your network with a dedicated intranet infrastructure.
+- 📈 **Automated Trading Strategies**: Design your strategy in QTSBE, backtest it in a simulated environment, and deploy it with the trading bot.
+- 💬 **Seamless Integrations**: Easily integrate with platforms like Discord, and extend functionality to other services like Slack and Telegram with minimal effort.
+- ♻️ **Streamlined Project**: A comprehensive solution designed for ease of use, minimizing the learning curve and reducing setup time to just a few days.
+- 🧠 **Continuous Improvement**: Built for customization with around 10 default indicators; adding new ones is as simple as creating a file and writing your code, which gets automatically imported.
+- 🎨 **Web Interface**: Enhance your backtesting performance using the QTSBE API and efficiently manage your trading funds through an intuitive web interface.
+  
 ---
 
 ## Details
@@ -28,7 +31,7 @@ Smartswap is an Intranet-based project designed for managing cryptocurrency port
 - [**discord-int**](https://github.com/smartswap-org/discord-int) : Monitors script operations, APIs, and databases, with backup mechanisms.
 - [**databases**](https://github.com/smartswap-org/databases) : Create / Update databases (smartswap, smartswap_positions, ..) and functions to interract with the DBs. (mng)
 
-## Stack
+## Actual Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,14 +47,15 @@ Smartswap is an Intranet-based project designed for managing cryptocurrency port
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-## Tested / Hosted On
+## Actual Tested OS
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## Integration
+## Integrations Options
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
