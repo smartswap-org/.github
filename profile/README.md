@@ -19,6 +19,7 @@ Smartswap is an Intranet-based project designed for managing cryptocurrency port
 - [**simulator**](https://github.com/smartswap-org/simulator) : Real-time strategy simulation tool on specified capital.
 - [**trading-bot**](https://github.com/smartswap-org/trading-bot) : Executes orders on CEX/DEX and retrieves strategy data (signals) from QTSBE.
 - [**discord-int**](https://github.com/smartswap-org/discord-int) : Monitors script operations, APIs, and databases, with backup mechanisms.
+- [**databases**](https://github.com/smartswap-org/databases) : Create / Update databases (smartswap, smartswap_positions, ..) and functions to interract with the DBs. (mng)
 
 ## Stack
 
